@@ -6,25 +6,25 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>0c32756f-68ca-4b55-9a9f-f3b415ad0b72</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.Тесты_ПроверкаРеквизитовДокументовКомментарийОтветственный" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.Тесты_ПроверкаПериодичностиНумерацииДокументов" category="Object">
 				<xr:TypeId>374454b4-1df5-4b67-9e85-800ed93937ff</xr:TypeId>
 				<xr:ValueId>95383c60-00b2-4dc5-af00-0832ae567804</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Тесты_ПроверкаРеквизитовДокументовКомментарийОтветственный</Name>
+			<Name>Тесты_ПроверкаПериодичностиНумерацииДокументов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тесты "Проверка реквизитов документов: комментарий, ответственный"</v8:content>
+					<v8:content>Тесты "Проверка периодичности нумерации документов"</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.Тесты_ПроверкаРеквизитовДокументовКомментарийОтветственный.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.Тесты_ПроверкаПериодичностиНумерацииДокументов.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="00299aed-a345-484f-8863-e190262ee4ad">
+			<Attribute uuid="4cbb1eb0-0bd1-44d1-9ff7-c92b90cd091c">
 				<Properties>
 					<Name>Настройки</Name>
 					<Synonym>
@@ -56,7 +56,7 @@
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="dfd56ec7-5ec5-41cc-bce3-ad49a895f786">
+			<Attribute uuid="e8a7cd3b-c2da-4e1d-b316-0e17617d6cb7">
 				<Properties>
 					<Name>ИмяТеста</Name>
 					<Synonym>
