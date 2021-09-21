@@ -7,7 +7,7 @@ name: Контроль качества
 on: [push, pull_request]
 jobs:
   task:
-    if: github.repository == 'SmokeTests1C'
+    if: github.repository == 'SidnevAV/SmokeTests1C'
     runs-on: ubuntu-20.04
     strategy:
       fail-fast: false
