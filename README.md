@@ -1,3 +1,13 @@
+<a href="https://checkbsl.org"><img alt="Checked by Silver Bulleters SonarQube BSL plugin" src="https://web-files.do.bit-erp.ru/sonar/w_t.png" align="right" style="width:400px"/></a>
+
+[![Статус порога качества](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=alert_status&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Рейтинг сопровождаемости](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=sqale_rating&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Рейтинг надежности](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=reliability_rating&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Рейтинг безопасности](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=security_rating&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Уязвимости](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=vulnerabilities&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Ошибки](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=bugs&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+[![Дефекты кода](https://open.checkbsl.org/api/project_badges/measure?project=SmokeTests1C&metric=code_smells&token=17a2ad422a979a992873e77a25d6cc5a6b535229)](https://open.checkbsl.org/dashboard?id=SmokeTests1C)
+
 # Версия 1.5.17
 
 <a id="markdown-тесты" name="тесты"></a>
